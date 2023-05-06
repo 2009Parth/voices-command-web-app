@@ -1,0 +1,21 @@
+h3
+{
+    font-family: 'Tilt Prism', cursive;
+    font-weight: 800;
+    font-size: 40px;
+}
+button
+{
+    font-family: 'Sedgwick Ave Display', cursive;
+    width: 80px;
+    height: 30px;
+}
+canvas
+{
+    background: rgb(5, 234, 242);
+	border-radius: 20px;
+}
+body
+{
+    text-align: center;
+}
